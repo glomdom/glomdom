@@ -1,5 +1,10 @@
-# ABOUT ME
+```toml
+[about.me]
+username = "glomdom"
+discord = "glomdom."
+skillset = ["C++", "C", "C#", "Python", "x86_64 ASM", "fasm"]
+notable_projects = ["crust", "GORGE"]
 
-HI<br>
-I AM GLOMDOM<br>
-I KNOW PROGRAMMING LANGUAGES<br>
+[metadata]
+version = "1"
+```
