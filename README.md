@@ -23,8 +23,7 @@ anime = {
   "Demon Slayer": 5,
   "Social Experiments Lain": 9,
   "Black Clover": 7
-  # many more
-}
+} # many more
 
 [metadata]
 version = 16
