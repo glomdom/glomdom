@@ -14,16 +14,17 @@ discord = "glomdom."
 
 [ratings]  # range of [0 ~ 10]
 anime = {
-  "Attack on Titan" = 8,
-  "Tensura" = 7,
-  "Garden of Words" = 9,
-  "Wind Rider" = 7,
-  "Blue Lock" = 3,
-  "Your Name." = 9,
-  "Demon Slayer" = 5,
-  "Social Experiments Lain" = 9,
-  "Black Clover" = 7
-} # many more
+  attack_on_titan = 8,
+  tensura = 7,
+  garden_of_words = 9,
+  wind_rider = 7,
+  blue_Lock = 3,
+  your_name = 9,
+  demon_slayer = 5,
+  social_Experiments_lain = 9,
+  black_clover = 7,
+  monogatari_series = 9
+}  # many more
 
 [metadata]
 version = 16
