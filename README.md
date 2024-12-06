@@ -14,7 +14,7 @@ discord = "glomdom."
 
 [favorites]  # unordered
 games = ["Genshin Impact", "ZZZ", "Once Human", "Factorio", "Satisfactory", "TBOI", "most indie games"]
-animes = ["Monogatari Series", "Black Clover", "Garden of Words", "World Trigger", "Evangelion", "Steins;Gate"]
+animes = ["Social Experiments Lain", "Monogatari Series", "Black Clover", "Garden of Words", "World Trigger", "Evangelion", "Steins;Gate"]
 
 [metadata]
 version = 16
