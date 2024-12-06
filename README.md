@@ -12,19 +12,9 @@ description = "local tea-loving, caffeine-addicted, low-level programmer"
 bluesky = "glomdom.bsky.social"
 discord = "glomdom."
 
-[ratings]  # range of [0 ~ 10]
-anime = {
-  attack_on_titan = 8,
-  tensura = 7,
-  garden_of_words = 9,
-  wind_rider = 7,
-  blue_Lock = 3,
-  your_name = 9,
-  demon_slayer = 5,
-  social_Experiments_lain = 9,
-  black_clover = 7,
-  monogatari_series = 9
-}  # many more
+[favorites]  # unordered
+games = ["Genshin Impact", "ZZZ", "Once Human", "Factorio", "Satisfactory", "TBOI", "most indie games"]
+animes = ["Monogatari Series", "Black Clover", "Garden of Words", "World Trigger", "Evangelion", "Steins;Gate"]
 
 [metadata]
 version = 16
