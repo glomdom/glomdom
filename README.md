@@ -6,7 +6,7 @@ username = "glomdom"
 skillset = ["Python", "C#", "C/++", "x86_64 AT&T Assembly", "Rust"]  # i know it: < more | less >
 notable_projects = ["bail", "crust", "GORGE"]
 hobbies = ["reading", "coding", "procrastinating", "movies", "anime", "constantly being in a state of mire"]
-description = "local tea-loving, caffeine-addicted, low-level programmer"
+description = "local tea-loving, caffeine-addicted, programmer"
 
 [socials]
 bluesky = "glomdom.bsky.social"
@@ -18,5 +18,5 @@ animes = ["Monogatari Series", "Black Clover", "Garden of Words", "World Trigger
 
 [metadata]
 version = 16
-revision = 2
+revision = 3
 ```
