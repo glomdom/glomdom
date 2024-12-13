@@ -3,7 +3,7 @@
 
 [about]
 username = "glomdom"
-skillset = ["Python", "C#", "C/++", "x86_64 AT&T Assembly", "Rust"]  # i know it: < more | less >
+skillset = ["Python", "C#", "Rust", "C/++", "x86_64 AT&T Assembly"]  # i know it: < more | less >
 notable_projects = ["bail", "crust", "GORGE"]
 hobbies = ["reading", "coding", "procrastinating", "movies", "anime", "constantly being in a state of mire"]
 description = "local tea-loving, caffeine-addicted programmer"
