@@ -12,11 +12,7 @@ description = "local tea-loving, caffeine-addicted programmer"
 bluesky = "glomdom.bsky.social"
 discord = "glomdom."
 
-[favorites]  # unordered
-games = ["Genshin Impact", "ZZZ", "Once Human", "Factorio", "Satisfactory", "TBOI", "most indie games"]
-animes = ["Social Experiments Lain", "Monogatari Series", "Black Clover", "Garden of Words", "World Trigger", "Evangelion", "Steins;Gate"]
-
 [metadata]
 version = 16
-revision = 3
+revision = 4
 ```
