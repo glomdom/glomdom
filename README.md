@@ -3,9 +3,9 @@
 
 [about]
 username = "glomdom"
-skillset = ["Python", "C#", "Rust", "C/++", "x86_64 AT&T Assembly"]  # i know it: < more | less >
+skillset = ["Python", "C#", "Rust", "C/++", "x86_64 AT&T Assembly"]
 notable_projects = ["bail", "crust", "GORGE"]
-hobbies = ["reading", "coding", "procrastinating", "movies", "anime", "constantly being in a state of mire"]
+hobbies = ["reading", "coding", "procrastinating", "movies", "anime"]
 description = "local tea-loving, caffeine-addicted programmer"
 
 [socials]
@@ -14,5 +14,5 @@ discord = "glomdom."
 
 [metadata]
 version = 16
-revision = 4
+revision = 5
 ```
